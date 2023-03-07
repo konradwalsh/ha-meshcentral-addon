@@ -1,8 +1,8 @@
-# Home Assistant Add-on Devcontainer Template
+# Home Assistant MeshCentral 2 Add-on 
 
 ### Summary
 
-This is a templated to ease development of Home Assistant add-ons inside of a VS Code [devcontainer](https://code.visualstudio.com/docs/remote/containers).
+Install and Run MeshCentral 2 inside of Home Assistant as an Addon
 
 ### Usage
 
